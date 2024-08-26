@@ -1,0 +1,6 @@
+# ignore all .layout files
+*.layout
+#ignore all .dev files
+*.dev
+#ignore all.exe files
+*.exe
